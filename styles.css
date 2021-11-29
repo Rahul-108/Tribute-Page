@@ -1,0 +1,27 @@
+img{
+    max-width:100%;
+    height:auto;
+    display:block;
+    margin:auto;
+  }
+  
+  h1{
+    text-align:center;
+  }
+  
+  p{
+    text-align:center;
+  }
+  
+  h4{
+    text-align:center;
+  }
+  
+  ul{
+    text-align:center;
+    list-style:inside;
+  }
+  
+  body{
+    background:#f0e9d2;
+  }
